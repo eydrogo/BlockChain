@@ -10,6 +10,7 @@ namespace WebNetCore.Clases
     public class Block
     {
         // Se implementó este cambio en este branches.
+        // Agregé este nuevo comentario.....
         public int Index { get; set; }
         public DateTime TimeStamp { get; set; }
         public string PreviousHash { get; set; }
