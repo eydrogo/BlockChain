@@ -7,6 +7,7 @@ namespace WebNetCore.Clases
 {
     public class BlockChain
     {
+        // Cambios en la clase BlockChain del branch cmabiosV1
 
         public IList<Block> Chain { set; get; }
 
