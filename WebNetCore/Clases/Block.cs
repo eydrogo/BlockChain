@@ -9,7 +9,7 @@ namespace WebNetCore.Clases
 {
     public class Block
     {
-        // cambios en la clase block del branch cambios V1
+        // Cambio en el BranchDesarrollo
         public int Index { get; set; }
         public DateTime TimeStamp { get; set; }
         public string PreviousHash { get; set; }
