@@ -9,7 +9,7 @@ namespace WebNetCore.Clases
 {
     public class Block
     {
-        
+        //este es un comentario ingresado en Visual Studio Code
         public int Index { get; set; }
         public DateTime TimeStamp { get; set; }
         public string PreviousHash { get; set; }
